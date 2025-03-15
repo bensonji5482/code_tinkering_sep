@@ -1,0 +1,18 @@
+.navbar-nav {
+    background-color: lightgray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.navbar a {
+    color: black;
+    padding: 14px 16px;
+    font-size: 20px;
+}
+.navbar a:hover {
+    background: gray;
+    color: white;
+}
+.main {
+    margin-top: 50px;
+}
