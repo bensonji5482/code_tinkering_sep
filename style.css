@@ -1,3 +1,4 @@
+
 .navbar-nav {
     background-color: lightgray;
     position: fixed;
@@ -7,8 +8,6 @@
 .navbar a {
     color: black;
     padding: 14px 16px;
-    font-size: 20px;
-    text-align: center;
     margin-top: 11px;
 }
 .navbar a:hover {
@@ -22,10 +21,22 @@ img {
     width: 80px;
     padding: 10px;
 }
-.square {
-    width: 49%;
+.square1 {
+    width: 99%;
     display: inline-block;
     border: 1px solid black;
     margin: 5px;
     padding: 6px;
+    background-color: #ffadad;
+}
+.square2 {
+    width: 99%;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 6px;
+    background-color: #9bf6ff;
+}
+body {
+    background-color: #d1dbe4;
 }
